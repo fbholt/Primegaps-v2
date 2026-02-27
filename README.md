@@ -5,6 +5,8 @@ These are some of the materials supporting my exploration of the cycles of gaps 
 
 <b>Note on v2:</b> I have reorganized the material for this repository.  The code base will be more complete, and some of the code will be more flexible than in the original Primegaps repository.
 
+Please see "00_PrimePatternsGitHub_Map" and "00_Tbl_of_Contents".
+
 Over the years I have used R for the calculations and then Excel and Powerpoint for creating figures and tables.
 Initially I shared an Excel workbook here and was encouraged to post Python notebooks to make the work more accessible. I hope these notebooks help in that regard.
 
